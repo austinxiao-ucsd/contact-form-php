@@ -82,12 +82,13 @@ if(isset($_POST['submit'])) {
     <div class="row">
       <div class="col-md-10 col-md-push-1">
         <div class="jumbotron">
-          <h1>Bootstrap Contact</h1>
+          <h1>Classroom of the Future</h1>
+          <h2>INNOVATION IN EDUCATION AWARDS NOMINATION FORM</h2>h2>
 
           <p class="lead">A simple PHP contact form that uses Bootstrap, from Twitter, for a base and has jQuery validation.</p>
 
-          <h3>Fork on Github</h3>
-          <p>Want to add a contact form to your implementation of <a href="http://twitter.github.com/bootstrap/" title="Bootstrap, from Twitter">Bootstrap</a>? Download, fork, pull, file issues or whatever with my repo Github.</p>
+          <h3>PROGRAM DETAILS:</h3>
+          <p>Classroom of the Future Foundation</p>
 
           <p><a class="btn btn-large btn-primary" href="http://www.github.com/jackilyn/bootstrap-contact/">View Repo on Github &raquo;</a></p>
         </div><!-- jumbotron -->
