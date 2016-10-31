@@ -67,7 +67,7 @@ if(isset($_POST['submit'])) {
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-<title>Bootstrap Contact Form</title>
+<title>Classroom of the Future Nomination Form</title>
 
 <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
 
