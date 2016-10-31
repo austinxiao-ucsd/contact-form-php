@@ -83,7 +83,7 @@ if(isset($_POST['submit'])) {
       <div class="col-md-10 col-md-push-1">
         <div class="jumbotron">
           <h1>Classroom of the Future</h1>
-          <h2>INNOVATION IN EDUCATION AWARDS NOMINATION FORM</h2>h2>
+          INNOVATION IN EDUCATION AWARDS NOMINATION FORM
 
           <p class="lead">A simple PHP contact form that uses Bootstrap, from Twitter, for a base and has jQuery validation.</p>
 
